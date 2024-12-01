@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic "CMakeFiles/tema3-PAOO.dir/src/main.cpp.o" -o tema3-PAOO 
